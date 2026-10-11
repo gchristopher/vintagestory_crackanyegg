@@ -1,0 +1,38 @@
+[
+  {
+    "op": "addmerge",
+    "path": "/behaviorsByType",
+    "value": {
+      "egg-cockatrice-raw": [
+        {
+          "name": "EggCrack",
+          "properties": {
+            "containedEggLitres": 0.4,
+            "partialLiquidCode": "aculinaryartillery:eggyolkfullportion-chicken",
+            "fullLiquidCode": "aculinaryartillery:eggyolkfullportion-chicken",
+            "eggYolkCode": "aculinaryartillery:eggshell",
+            "eggShellCode": "aculinaryartillery:eggshell"
+          }
+        }
+      ],
+      "egg-ostrich-raw": [
+        {
+          "name": "EggCrack",
+          "properties": {
+            "containedEggLitres": 0.8,
+            "partialLiquidCode": "aculinaryartillery:eggyolkfullportion-chicken",
+            "fullLiquidCode": "aculinaryartillery:eggyolkfullportion-chicken",
+            "eggYolkCode": "aculinaryartillery:eggshell",
+            "eggShellCode": "aculinaryartillery:eggshell"
+          }
+        }
+      ]
+    },
+    "side": "server",
+    "dependsOn": [
+      { "modid": "feverstonewilds" }
+    ],
+    "file": "feverstonewilds:itemtypes/food/egg.json"
+  }
+]
+
