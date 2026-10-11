@@ -3,7 +3,7 @@
   "modid": "crackanyegg",
   "name": "Crack Any Egg",
   "authors": [ "gchristopher" ],
-  "description": "Adds A Culinary Artillery egg-cracking compatibility to eggs from other mods, preserving their identities and allowing species-appropriate yields of egg whites and yolks.",
+  "description": "Adds A Culinary Artillery egg-cracking compatibility to eggs from other mods, for species-appropriate yields of chicken egg liquid.",
   "website": "https://github.com/gchristopher/vintagestory_crackanyegg",
   "version": "0.1.0",
   "side": "Universal",
