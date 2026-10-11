@@ -1,4 +1,4 @@
-# Crack Any Egg
+# Crack Any Egg 0.1.0
 
 **EARLY EXPERIMENTAL PRE-RELEASE!!**
 
